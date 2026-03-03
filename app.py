@@ -1,16 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Bank Marketing EDA App (Streamlit) – Dark Dashboard Theme
-
-Autor: Jeancarlos Amaya Quispe
-Año: 2026
-
-Descripción:
-- EDA interactivo del dataset BankMarketing.
-- Tema visual estilo "dashboard dark" (cards, topbar, paneles).
-- Seaborn es opcional: si no está instalado, la app usa Matplotlib puro.
-"""
-
 from __future__ import annotations
 
 import io
@@ -33,7 +20,7 @@ except ModuleNotFoundError:
 # -----------------------------
 # Configuración general
 # -----------------------------
-APP_TITLE = "CASO BANK MARKETING"
+APP_TITLE = "CASO MARKETING BANCARIO"
 APP_SUBTITLE = "Exploratory Data Analysis"
 DATASET_EXPECTED_COLUMNS = [
     "age", "job", "marital", "education", "default", "housing", "loan", "contact", "month",
