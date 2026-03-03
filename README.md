@@ -65,6 +65,3 @@ proyecto/
       ├─ 📌 carga_dataset.png
       ├─ 📌 eda_tabs.png
       └─ 📌 conclusiones.png
-
-
-
