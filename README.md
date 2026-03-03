@@ -59,8 +59,7 @@ proyecto/
 ├─ ✅ requirements.txt
 ├─ ✅ BankMarketing.csv
 ├─ ✅ README.md
-└─ ✅ docs/
-   └─ screenshots/
+└─ ✅ screenshots
       ├─ 📌 home.png
       ├─ 📌 carga_dataset.png
       ├─ 📌 eda_tabs.png
