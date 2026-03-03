@@ -44,10 +44,10 @@ La app incluye módulos navegables desde el **sidebar**:
 
 | Pantalla | Vista |
 |---|---|
-| Home | ![Carga del Dataset](carga_dataset.png) |
+| Home | ![Carga del Dataset](home.png) |
 | Carga del dataset | ![Carga del Dataset](carga_dataset.png)|
-| EDA (tabs) | ![Carga del Dataset](carga_dataset.png) |
-| Conclusiones | ![Carga del Dataset](carga_dataset.png)|
+| EDA (tabs) | ![Carga del Dataset](eda_tabs.png) |
+| Conclusiones | ![Carga del Dataset](conclusiones.png)|
 
 
 ---
