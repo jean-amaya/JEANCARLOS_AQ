@@ -22,8 +22,12 @@ Analizar patrones y relaciones entre variables del dataset y su vínculo con la 
 - **Especialización:**  Python for Analytics  
 - **Año:** 2026
 
+---
+
 ## Objetivo
-Analizar patrones y relaciones entre variables asociadas con la aceptación de campaña (**y**), sin construir modelos predictivos.---
+Analizar patrones y relaciones entre variables asociadas con la aceptación de campaña (**y**), sin construir modelos predictivos.
+
+---
 
 ## 🧩 Alcance funcional
 La app incluye módulos navegables desde el **sidebar**:
@@ -45,22 +49,22 @@ La app incluye módulos navegables desde el **sidebar**:
 | EDA (tabs) | ![EDA](docs/screenshots/eda_tabs.png) |
 | Conclusiones | ![Conclusiones](docs/screenshots/conclusiones.png) |
 
+
 ---
 
+## 📁 Estructura
+```text
+proyecto/
+├─ app.py
+├─ requirements.txt
+├─ BankMarketing.csv
+├─ README.md
+└─ docs/
+   └─ screenshots/
+      ├─ home.png
+      ├─ carga_dataset.png
+      ├─ eda_tabs.png
+      └─ conclusiones.png
 
-## Ejecución local
-1. Instalar dependencias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Ejecutar la aplicación:
-   ```bash
-   streamlit run app.py
-   ```
 
-## Notas de dataset
-- Este dataset suele estar delimitado por **;** (punto y coma).  
-  El loader implementa detección y reintentos para evitar parseos en una sola columna.
-
-## Evidencias
 
