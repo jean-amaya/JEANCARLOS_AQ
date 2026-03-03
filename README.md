@@ -47,7 +47,7 @@ La app incluye módulos navegables desde el **sidebar**:
 | Home | conclusiones.png |
 | Carga del dataset | (https://github.com/jean-amaya/JEANCARLOS_AQ/blob/df88b13f07796d0cc040807590cafcaf41e29e51/home.png)|
 | EDA (tabs) | ![EDA](docs/screenshots/eda_tabs.png) |
-| Conclusiones | ![Conclusiones](docs/screenshots/conclusiones.png) |
+| Conclusiones | https://github.com/jean-amaya/JEANCARLOS_AQ/blob/46b811e94e2769d3647fc2d727a669a10253d953/carga_dataset.png |
 
 
 ---
