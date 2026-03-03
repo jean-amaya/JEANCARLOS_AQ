@@ -55,16 +55,16 @@ La app incluye módulos navegables desde el **sidebar**:
 ## 📁 Estructura
 ```text
 proyecto/
-├─ app.py
-├─ requirements.txt
-├─ BankMarketing.csv
-├─ README.md
-└─ docs/
+├─ ✅ app.py
+├─ ✅ requirements.txt
+├─ ✅ BankMarketing.csv
+├─ ✅ README.md
+└─ ✅ docs/
    └─ screenshots/
-      ├─ home.png
-      ├─ carga_dataset.png
-      ├─ eda_tabs.png
-      └─ conclusiones.png
+      ├─ 📌 home.png
+      ├─ 📌 carga_dataset.png
+      ├─ 📌 eda_tabs.png
+      └─ 📌 conclusiones.png
 
 
 
