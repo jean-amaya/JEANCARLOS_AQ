@@ -991,7 +991,7 @@ def page_conclusions() -> None:
 
 
 def configure_sidebar() -> str:
-    st.sidebar.image("JAQ.png", use_container_width=True)
+    
     st.sidebar.title("Menú")
     st.sidebar.caption("Navegación principal")
 
