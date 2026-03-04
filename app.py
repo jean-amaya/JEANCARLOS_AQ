@@ -973,7 +973,7 @@ def page_conclusions() -> None:
     for i, c in enumerate(concl, start=1):
         st.write(f"{i}. {c}")
 
-    st.caption("Nota: conclusiones basadas en asociaciones observadas (EDA), sin inferir causalidad.")
+    st.caption("Nota: considerar que las conclusiones redactadas se basaron en asociaciones observadas (EDA)")
     panel_close()
 
 
