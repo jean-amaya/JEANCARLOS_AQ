@@ -49,7 +49,7 @@ La app incluye módulos navegables desde el **sidebar**:
 
 ## 📁 Estructura
 ```text
-proyecto/
+JEANCARLOS_AQ/
 ├─ ✅ app.py
 ├─ ✅ requirements.txt
 ├─ ✅ BankMarketing.csv
