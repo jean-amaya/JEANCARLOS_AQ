@@ -24,11 +24,6 @@ Analizar patrones y relaciones entre variables del dataset y su vínculo con la 
 
 ---
 
-## Objetivo
-Analizar patrones y relaciones entre variables asociadas con la aceptación de campaña (**y**), sin construir modelos predictivos.
-
----
-
 ## 🧩 Alcance funcional
 La app incluye módulos navegables desde el **sidebar**:
 
