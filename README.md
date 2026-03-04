@@ -35,7 +35,6 @@ La app incluye módulos navegables desde el **sidebar**:
 ---
 
 ## 🖼️ Capturas de la app
-> Coloque las imágenes en `docs/screenshots/` y actualice los nombres si es necesario.
 
 | Pantalla | Vista |
 |---|---|
